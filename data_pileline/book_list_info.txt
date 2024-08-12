@@ -1,4 +1,4 @@
-Link|Subject|Type|Level|Publicer|Downloaded
-https://drive.google.com/file/d/1vNcA7mR3Y_kAF6QqREH3pDv0Fupy-36Y/view|Toán|SGK|6|Cánh Diều|Yes
-https://drive.google.com/file/d/1tV9wmh2NQ4nePFj7tLSNmIuGFu9Yk2pI/view|Toán|SGK|2|Cánh Diều|Yes
-https://drive.google.com/file/d/1Fb3d4C9QkBX-6n1q3sHdcVl_PTIqpsZz/view|Toán|SGK|2|Bộ giáo dục|
+Link|Subject|Type|Level|Publicer|PageNumber|Downloaded
+https://drive.google.com/file/d/1vNcA7mR3Y_kAF6QqREH3pDv0Fupy-36Y/view|Toán|SGK|6|Cánh Diều|126|Yes
+https://drive.google.com/file/d/1tV9wmh2NQ4nePFj7tLSNmIuGFu9Yk2pI/view|Toán|SGK|2|Cánh Diều|102|Yes
+https://drive.google.com/file/d/1Fb3d4C9QkBX-6n1q3sHdcVl_PTIqpsZz/view|Toán|SGK|2|Bộ giáo dục||

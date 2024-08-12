@@ -1,7 +1,7 @@
 yolov10x_best.pt
-data_pileline/systhesis_data
+data_pileline/systhesis_data/*
+!data_pileline/systhesis_data/darknet.labels
 roboflow_annotation_processing/yolov8_dataset/*
-
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

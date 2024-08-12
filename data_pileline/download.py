@@ -56,7 +56,7 @@ if __name__=='__main__':
         
     for _,row in df.iterrows():
         
-        Link, Subject, Type, Level, Publicer = row[df.columns]
+        Link, Subject, Type, Level, Publicer,_,_ = row[df.columns]
         file_id = Link.split('/')[-2]
         
         subject_dir = os.path.join(root_url,Subject)
